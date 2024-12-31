@@ -1,0 +1,16 @@
+###
+# This file is only here to make sure that something like
+#
+#    pip install -e .
+#
+# works as expected. Requirements can be found in setup.py.
+###
+
+.
+
+pytest~=7.4.4
+pybambu~=1.0.1
+OctoPrint~=1.10.2
+setuptools~=70.0.0
+pyserial~=3.5
+Flask~=2.2.5
